@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
-const stateinfunction = () => {
-    const sateinfunction = (props) => {
+const StateInFunction = () => {
+    const SateInFunction = (props) => {
         const [data, setData] = useState({
             id:props.id,
             name:props.name,
@@ -29,4 +29,4 @@ const stateinfunction = () => {
   )
 }
 
-export default stateinfunction
+export default StateInFunction

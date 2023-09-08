@@ -4,7 +4,7 @@ import Post from './component/Post'
 import PostFunction  from './component/PostFunction';
 import Comment from './component/Comment';
 import StateInClass from './component/StatelnClass';
-import stateinfunction from './component/stateinfunction';
+import StateInFunction from './component/stateinfunction';
 function App() {
   return (
     <>
@@ -29,7 +29,7 @@ function App() {
       
       {/* <StateInClass name = "Name: Punsan Somkla"/> */}
 
-      <stateinfunction name="Punsan Somkla" />
+      <StateInFunction name="Punsan Somkla" />
 
       
 
