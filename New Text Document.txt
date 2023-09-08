@@ -1,0 +1,40 @@
+PS D:\2566_fontend> node -v
+v18.17.1
+PS D:\2566_fontend> npm create vite@latest (เอามาจาก vite+รีแอค)
+Need to install the following packages:
+  create-vite@4.4.1
+Ok to proceed? (y) yes
+√ Project name: ... react-demo
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in D:\2566_fontend\react-demo...
+
+  cd react-demo
+  npm install
+  npm run dev
+
+npm notice
+npm notice New major version of npm available! 9.6.7 -> 10.0.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.0.0
+npm notice
+PS D:\2566_fontend> cd .\react-demo\
+PS D:\2566_fontend\react-demo> npm install
+
+added 260 packages, and audited 261 packages in 26s
+
+96 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\2566_fontend\react-demo> npm run dev
+
+> react-demo@0.0.0 dev
+> vite
+
+
+  VITE v4.4.9  ready in 316 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
